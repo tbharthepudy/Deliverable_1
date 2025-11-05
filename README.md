@@ -70,13 +70,13 @@ df['people_with_measure'] = (df['prevalence_rate'] / 100) * df['totalpopulation'
 - by state/year/health issue, by location, etc.
 ### Visualization:
 - top states by a measure 
-    - ![]()
+    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top10_states.png)
 - lowest states by another
-    - ![]()
+    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top15_states.png)
 - correlation heatmap
-    - ![]()
+    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/correlation.png)
 - geographic scatter.
-    - ![]()
+    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/scatter_plot.png)
 
 
 
