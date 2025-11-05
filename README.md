@@ -74,7 +74,7 @@ df['people_with_measure'] = (df['prevalence_rate'] / 100) * df['totalpopulation'
     ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top10_states.png)
     
 - Lowest States by Another:
-    - This horizontal bar plot shows the states reporting the lowest arthritis prevalence. It helps pinpoint regions performing better in joint-health outcomes relative to others.
+    - This vertical bar plot shows the states reporting the lowest arthritis prevalence. It helps pinpoint regions performing better in joint-health outcomes relative to others.
     ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top15_states.png)
     
 - Correlation Heatmap:
