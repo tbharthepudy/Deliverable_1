@@ -70,13 +70,17 @@ df['people_with_measure'] = (df['prevalence_rate'] / 100) * df['totalpopulation'
 - by state/year/health issue, by location, etc.
 ### Visualization:
 - top states by a measure 
-    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top10_states.png)
+    ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top10_states.png)
+    - This bar chart highlights the states with the highest average obesity rates across the dataset. It quickly identifies regions with the greatest public health concern regarding obesity levels.
 - lowest states by another
-    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top15_states.png)
+    ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/top15_states.png)
+    - This horizontal bar plot shows the states reporting the lowest arthritis prevalence. It helps pinpoint regions performing better in joint-health outcomes relative to others.
 - correlation heatmap
-    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/correlation.png)
+    ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/correlation.png)
+    - The heatmap visualizes how obesity, smoking, and asthma rates correlate across states. Strong correlations indicate possible co-occurrence or shared health risk factors.
 - geographic scatter.
-    - ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/scatter_plot.png)
+    ![](https://github.com/tbharthepudy/Deliverable_1/blob/dev/create_documentation/assets/scatter_plot.png)
+    - This scatter plot maps risk behaviors (like smoking or binge drinking) across longitude and latitude. It visually reveals geographic clusters where unhealthy behaviors are more concentrated.
 
 
 
